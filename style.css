@@ -38,7 +38,7 @@ justify-content: center;
 align-items: center;
 }
 .layout{
-    background-image: url(/assests/img/shuffle-01.jpg);
+    background-image: url(assests/img/shuffle-01.jpg);
     width:50%;
     height: 550px;
     display: flex;
